@@ -19,6 +19,8 @@ body{
   border-radius: 60px;
   margin-right: 10px;
 }
-.reset-score{
+.reset-score,
+.autoPlay
+{
   height: 40px;
 }
